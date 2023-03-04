@@ -2,3 +2,17 @@
   max-width: 1080px;
   margin: 20px auto;
 }
+
+/* css styling for h1 elements */
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #814545;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #836464;
+}
